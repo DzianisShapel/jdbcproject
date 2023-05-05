@@ -1,0 +1,29 @@
+plugins {
+    id 'java'
+}
+
+group 'eu.senla.mixqa'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+ext {
+    junitVersion = '5.9.2'
+}
+
+dependencies {
+    testImplementation ("org.junit.jupiter:junit-jupiter-api:${junitVersion}")
+    testRuntimeOnly ("org.junit.jupiter:junit-jupiter-engine:${junitVersion}")
+    testRuntimeOnly('org.junit.platform:junit-platform-launcher:1.9.2')
+    testRuntimeOnly("org.junit.vintage:junit-vintage-engine:${junitVersion}")
+    implementation group: 'log4j', name: 'log4j', version: '1.2.17'
+    implementation group: 'org.postgresql', name: 'postgresql', version: '42.6.0'
+    implementation group: 'postgresql', name: 'postgresql', version: '9.0-801.jdbc4'
+    implementation group: 'org.jooq', name: 'jooq', version: '3.14.8'
+}
+
+test {
+    useJUnitPlatform()
+}

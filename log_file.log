@@ -1,0 +1,157 @@
+2023-05-05 11:25:15 INFO  Log:28 - ------- Started test: createTableForTest() -------
+2023-05-05 11:25:15 INFO  Log:28 - Connect to DB jdbc:postgresql://localhost:5432/demo by user postgres
+2023-05-05 11:25:15 ERROR Log:49 - Connection to DB failed!
+No suitable driver found for localhost
+2023-05-05 11:25:15 INFO  Log:28 - ------- Finished test: createTableForTest() -------
+2023-05-05 11:25:15 INFO  Log:28 - ------- Started test: insertRecordsIntoTable() -------
+2023-05-05 11:25:15 INFO  Log:28 - Connect to DB jdbc:postgresql://localhost:5432/demo by user postgres
+2023-05-05 11:25:15 ERROR Log:49 - Connection to DB failed!
+No suitable driver found for localhost
+2023-05-05 11:25:15 INFO  Log:28 - ------- Finished test: insertRecordsIntoTable() -------
+2023-05-05 11:25:51 INFO  Log:28 - ------- Started test: createTableForTest() -------
+2023-05-05 11:25:51 INFO  Log:28 - Connect to DB jdbc:postgresql://localhost:5432/demo by user postgres
+2023-05-05 11:25:51 ERROR Log:49 - Connection to DB failed!
+No suitable driver found for localhost
+2023-05-05 11:25:51 INFO  Log:28 - ------- Finished test: createTableForTest() -------
+2023-05-05 11:25:51 INFO  Log:28 - ------- Started test: insertRecordsIntoTable() -------
+2023-05-05 11:25:51 INFO  Log:28 - Connect to DB jdbc:postgresql://localhost:5432/demo by user postgres
+2023-05-05 11:25:51 ERROR Log:49 - Connection to DB failed!
+No suitable driver found for localhost
+2023-05-05 11:25:51 INFO  Log:28 - ------- Finished test: insertRecordsIntoTable() -------
+2023-05-05 11:27:21 INFO  Log:28 - ------- Started test: createTableForTest() -------
+2023-05-05 11:27:21 INFO  Log:28 - Connect to DB jdbc:postgresql://localhost:5432/demo by user postgres
+2023-05-05 11:27:21 ERROR Log:49 - Connection to DB failed!
+No suitable driver found for localhost
+2023-05-05 11:27:21 INFO  Log:28 - ------- Finished test: createTableForTest() -------
+2023-05-05 11:30:18 INFO  Log:28 - ------- Started test: TestDatabase -------
+2023-05-05 11:30:18 INFO  Log:28 - Connect to DB jdbc:postgresql://localhost:5432/demo by user postgres
+2023-05-05 11:30:18 ERROR Log:49 - Connection to DB failed!
+No suitable driver found for localhost
+2023-05-05 11:30:18 INFO  Log:28 - ------- Finished test: TestDatabase -------
+2023-05-05 11:31:12 INFO  Log:28 - ------- Started test: TestDatabase -------
+2023-05-05 11:31:12 INFO  Log:28 - Connect to DB jdbc:postgresql://localhost:5432/demo by user postgres
+2023-05-05 11:31:12 ERROR Log:49 - Connection to DB failed!
+No suitable driver found for localhost
+2023-05-05 11:31:12 INFO  Log:28 - Connect to DB jdbc:postgresql://localhost:5432/demo by user postgres
+2023-05-05 11:31:12 ERROR Log:49 - Connection to DB failed!
+No suitable driver found for localhost
+2023-05-05 11:31:12 INFO  Log:28 - ------- Finished test: TestDatabase -------
+2023-05-05 11:43:49 INFO  Log:28 - ------- Started test: TestDatabase -------
+2023-05-05 11:43:49 INFO  Log:28 - Connect to DB jdbc:postgresql://localhost:5432/demo by user postgres
+2023-05-05 11:43:49 ERROR Log:49 - Connection to DB failed!
+No suitable driver found for localhost
+2023-05-05 11:43:49 INFO  Log:28 - Connect to DB jdbc:postgresql://localhost:5432/demo by user postgres
+2023-05-05 11:43:49 ERROR Log:49 - Connection to DB failed!
+No suitable driver found for localhost
+2023-05-05 11:43:49 INFO  Log:28 - Connect to DB jdbc:postgresql://localhost:5432/demo by user postgres
+2023-05-05 11:43:49 ERROR Log:49 - Connection to DB failed!
+No suitable driver found for localhost
+2023-05-05 11:43:49 INFO  Log:28 - ------- Finished test: TestDatabase -------
+2023-05-05 12:00:03 INFO  Log:28 - ------- Started test: TestDatabase -------
+2023-05-05 12:00:03 INFO  Log:28 - Connect to DB jdbc:postgresql://localhost:5432/demo by user postgres
+2023-05-05 12:00:03 ERROR Log:49 - Connection to DB failed!
+No suitable driver found for localhost
+2023-05-05 12:00:03 INFO  Log:28 - Connect to DB jdbc:postgresql://localhost:5432/demo by user postgres
+2023-05-05 12:00:03 ERROR Log:49 - Connection to DB failed!
+No suitable driver found for localhost
+2023-05-05 12:00:03 INFO  Log:28 - ------- Finished test: TestDatabase -------
+2023-05-05 12:12:18 INFO  Log:28 - ------- Started test: TestDatabase -------
+2023-05-05 12:12:18 INFO  Log:28 - Connect to DB jdbc:postgresql://localhost:5432/demo by user postgres
+2023-05-05 12:12:18 INFO  Log:28 - ------- Finished test: TestDatabase -------
+2023-05-05 12:16:53 INFO  Log:28 - ------- Started test: TestDatabase -------
+2023-05-05 12:16:53 INFO  Log:28 - Connect to DB jdbc:postgresql://localhost:5432/demo by user postgres
+2023-05-05 12:16:53 ERROR Log:49 - Connection to DB failed!
+No suitable driver found for localhost
+2023-05-05 12:16:53 INFO  Log:28 - Connect to DB jdbc:postgresql://localhost:5432/demo by user postgres
+2023-05-05 12:16:53 ERROR Log:49 - Connection to DB failed!
+No suitable driver found for localhost
+2023-05-05 12:16:53 INFO  Log:28 - Connect to DB jdbc:postgresql://localhost:5432/demo by user postgres
+2023-05-05 12:16:53 ERROR Log:49 - Connection to DB failed!
+No suitable driver found for localhost
+2023-05-05 12:16:53 INFO  Log:28 - ------- Finished test: TestDatabase -------
+2023-05-05 12:17:44 INFO  Log:28 - ------- Started test: TestDatabase -------
+2023-05-05 12:17:44 INFO  Log:28 - Connect to DB jdbc:postgresql://localhost:5432/demo by user postgres
+2023-05-05 12:17:44 ERROR Log:49 - Connection to DB failed!
+No suitable driver found for localhost
+2023-05-05 12:17:44 INFO  Log:28 - Connect to DB jdbc:postgresql://localhost:5432/demo by user postgres
+2023-05-05 12:17:44 ERROR Log:49 - Connection to DB failed!
+No suitable driver found for localhost
+2023-05-05 12:17:44 INFO  Log:28 - Connect to DB jdbc:postgresql://localhost:5432/demo by user postgres
+2023-05-05 12:17:44 ERROR Log:49 - Connection to DB failed!
+No suitable driver found for localhost
+2023-05-05 12:17:44 INFO  Log:28 - ------- Finished test: TestDatabase -------
+2023-05-05 12:21:49 INFO  Log:28 - ------- Started test: TestDatabase -------
+2023-05-05 12:21:49 INFO  Log:28 - Connect to DB jdbc:postgresql://localhost:5432/demo by user postgres
+2023-05-05 12:21:49 ERROR Log:49 - Connection to DB failed!
+No suitable driver found for localhost
+2023-05-05 12:21:49 INFO  Log:28 - Connect to DB jdbc:postgresql://localhost:5432/demo by user postgres
+2023-05-05 12:21:49 ERROR Log:49 - Connection to DB failed!
+No suitable driver found for localhost
+2023-05-05 12:21:49 INFO  Log:28 - Connect to DB jdbc:postgresql://localhost:5432/demo by user postgres
+2023-05-05 12:21:49 ERROR Log:49 - Connection to DB failed!
+No suitable driver found for localhost
+2023-05-05 12:21:49 INFO  Log:28 - ------- Finished test: TestDatabase -------
+2023-05-05 12:23:09 INFO  Log:28 - ------- Started test: TestDatabase -------
+2023-05-05 12:23:09 INFO  Log:28 - Connect to DB jdbc:postgresql://localhost:5432/demo by user postgres
+2023-05-05 12:23:09 ERROR Log:49 - Connection to DB failed!
+No suitable driver found for localhost
+2023-05-05 12:23:09 INFO  Log:28 - Connect to DB jdbc:postgresql://localhost:5432/demo by user postgres
+2023-05-05 12:23:09 ERROR Log:49 - Connection to DB failed!
+No suitable driver found for localhost
+2023-05-05 12:23:09 INFO  Log:28 - Connect to DB jdbc:postgresql://localhost:5432/demo by user postgres
+2023-05-05 12:23:09 ERROR Log:49 - Connection to DB failed!
+No suitable driver found for localhost
+2023-05-05 12:23:09 INFO  Log:28 - ------- Finished test: TestDatabase -------
+2023-05-05 13:29:37 INFO  Log:28 - ------- Started test: TestDatabase -------
+2023-05-05 13:29:37 INFO  Log:28 - Connect to DB jdbc:postgresql://localhost:5432/demo by user postgres
+2023-05-05 13:29:38 INFO  Log:28 - Connection to DB successful!
+2023-05-05 13:29:38 INFO  Log:28 - Connect to DB jdbc:postgresql://localhost:5432/demo by user postgres
+2023-05-05 13:29:38 INFO  Log:28 - Connection to DB successful!
+2023-05-05 13:29:38 INFO  Log:28 - Send request to DB: create table auto_aircrafts(aircraft_code char(3) NOT NULL,model text not null,range integer not null,check (range > 0),PRIMARY KEY (aircraft_code));
+2023-05-05 13:29:38 ERROR Log:49 - Table was not created. Reason:
+Can't use query methods that take a query string on a PreparedStatement.
+2023-05-05 13:29:38 INFO  Log:28 - Connection to DB closed successfully
+2023-05-05 13:29:38 INFO  Log:28 - Statement closed successfully
+2023-05-05 13:29:38 INFO  Log:28 - ------- Finished test: TestDatabase -------
+2023-05-05 13:38:26 INFO  Log:28 - ------- Started test: TestDatabase -------
+2023-05-05 13:38:26 INFO  Log:28 - Connect to DB jdbc:postgresql://localhost:5432/demo by user postgres
+2023-05-05 13:38:27 INFO  Log:28 - Connection to DB successful!
+2023-05-05 13:38:41 INFO  Log:28 - Connect to DB jdbc:postgresql://localhost:5432/demo by user postgres
+2023-05-05 13:38:42 INFO  Log:28 - Connection to DB successful!
+2023-05-05 13:38:43 INFO  Log:28 - Send request to DB: create table auto_aircrafts(aircraft_code char(3) NOT NULL,model text not null,range integer not null,check (range > 0),PRIMARY KEY (aircraft_code));
+2023-05-05 13:38:43 ERROR Log:49 - Table was not created. Reason:
+Can't use query methods that take a query string on a PreparedStatement.
+2023-05-05 13:38:48 INFO  Log:28 - Connection to DB closed successfully
+2023-05-05 13:38:48 INFO  Log:28 - Statement closed successfully
+2023-05-05 13:38:48 INFO  Log:28 - ------- Finished test: TestDatabase -------
+2023-05-05 13:44:53 INFO  Log:28 - ------- Started test: TestDatabase -------
+2023-05-05 13:44:53 INFO  Log:28 - Connect to DB jdbc:postgresql://localhost:5432/demo by user postgres
+2023-05-05 13:44:53 INFO  Log:28 - Connection to DB successful!
+2023-05-05 13:44:53 INFO  Log:28 - Connect to DB jdbc:postgresql://localhost:5432/demo by user postgres
+2023-05-05 13:44:53 INFO  Log:28 - Connection to DB successful!
+2023-05-05 13:44:53 INFO  Log:28 - Send request to DB: create table auto_aircrafts(aircraft_code char(3) NOT NULL,model text not null,range integer not null,check (range > 0),PRIMARY KEY (aircraft_code));
+2023-05-05 13:44:53 ERROR Log:49 - Table was not created. Reason:
+Can't use query methods that take a query string on a PreparedStatement.
+2023-05-05 13:44:53 INFO  Log:28 - Connection to DB closed successfully
+2023-05-05 13:44:53 INFO  Log:28 - Statement closed successfully
+2023-05-05 13:44:53 INFO  Log:28 - ------- Finished test: TestDatabase -------
+2023-05-05 13:54:52 INFO  Log:28 - ------- Started test: TestDatabase -------
+2023-05-05 13:54:52 INFO  Log:28 - Connect to DB jdbc:postgresql://localhost:5432/demo by user postgres
+2023-05-05 13:54:53 INFO  Log:28 - Connection to DB successful!
+2023-05-05 13:54:53 INFO  Log:28 - Connect to DB jdbc:postgresql://localhost:5432/demo by user postgres
+2023-05-05 13:54:53 INFO  Log:28 - Connection to DB successful!
+2023-05-05 13:54:53 INFO  Log:28 - Send request to DB: create table auto_aircrafts(aircraft_code char(3) NOT NULL,model text not null,range integer not null,check (range > 0),PRIMARY KEY (aircraft_code));
+2023-05-05 13:54:53 INFO  Log:28 - Table was created successfully
+2023-05-05 13:54:53 INFO  Log:28 - Connection to DB closed successfully
+2023-05-05 13:54:53 INFO  Log:28 - ------- Finished test: TestDatabase -------
+2023-05-05 13:55:31 INFO  Log:28 - ------- Started test: TestDatabase -------
+2023-05-05 13:55:31 INFO  Log:28 - Connect to DB jdbc:postgresql://localhost:5432/demo by user postgres
+2023-05-05 13:55:32 INFO  Log:28 - Connection to DB successful!
+2023-05-05 13:55:32 INFO  Log:28 - Connect to DB jdbc:postgresql://localhost:5432/demo by user postgres
+2023-05-05 13:55:32 INFO  Log:28 - Connection to DB successful!
+2023-05-05 13:55:32 INFO  Log:28 - Send request to DB: INSERT INTO my_aircrafts (aircraft_code, model, range)VALUES ('773', 'Boeing 777-300', 11100),('763', 'Boeing 767-300', 7900),('733', 'Boeing 737-300', 4200),('320', 'Airbus A320-200', 5700),('321', 'Airbus A321-200', 5600),('319', 'Airbus A319-100', 6700),('SU9', 'Sukhoi SuperJet-100', 3000);
+2023-05-05 13:55:32 ERROR Log:49 - New data was not inserted into table. Reason:
+??????: ????????????? ???????? ????? ???????? ??????????? ???????????? "my_aircrafts_pkey"
+  Detail: ???? "(aircraft_code)=(773)" ??? ??????????.
+2023-05-05 13:55:32 INFO  Log:28 - Connection to DB closed successfully
+2023-05-05 13:55:32 INFO  Log:28 - ------- Finished test: TestDatabase -------
